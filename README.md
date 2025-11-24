@@ -4,8 +4,6 @@
 
 🌱 I’m currently learning the basics of telecommunications and exploring the world of cybersecurity
 
-💞️ I’m looking to collaborate on student tech projects, C applications, and awareness tools in cybersecurity
-
 📫 How to reach me: sourour.jaouadi@supcom.tn
 
 😄 Pronouns: She/Her
