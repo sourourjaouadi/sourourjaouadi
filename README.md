@@ -1,8 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Sourour
+# 👋 Hi, I'm Sourour Jaouadi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=ICT+Engineering+Student;Cybersecurity+%26+SOC+Enthusiast;AI+%26+LLM+Engineer+in+Progress;Vibe+Coder+%26+Prompt+Engineer;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=750&lines=ICT+Engineering+Student;AI+%26+Data+Engineering;AI+Security+%26+LLM+Security;Machine+Learning+%26+Data+Analytics;AI+Agents+%26+MCP+Security;Building+Intelligent+%26+Secure+Systems+%F0%9F%A4%96%F0%9F%94%90" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sourourjaouadi">
+<img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sourour.jaouadi@supcom.tn">
+<img src="https://img.shields.io/badge/Email-8E44AD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -10,69 +19,353 @@
 
 ## 🧠 About Me
 
-I'm an **ICT Engineering student** passionate about building systems that are **secure, intelligent, and efficient**.
+I'm an **ICT Engineering student at SUP'COM** interested in the intersection of **Artificial Intelligence, Data and Cybersecurity**.
 
-My world lives at the intersection of **cybersecurity 🔐, AI engineering 🤖, and network defense 🌐** — I don't just study these fields, I build with them.
+I enjoy building systems that are not only intelligent, but also **secure, explainable and reliable**.
 
-From analyzing threats in SOC environments to fine-tuning LLMs and automating workflows with Python, I'm driven by one thing: **learning by doing**.
+My interests span across:
 
-> *"The best way to understand a system is to build it, break it, and rebuild it better."*
+```text
+🤖 Artificial Intelligence
+📊 Data Engineering & Analytics
+🧠 Machine Learning
+🔐 AI & Application Security
+🛡️ Cybersecurity & Network Defense
+🤖 LLMs & AI Agents
+🔌 MCP & Secure Tool Execution
+```
+
+I'm particularly interested in the security challenges introduced by modern AI systems — from **LLM applications and RAG pipelines to autonomous agents and tool-calling architectures**.
+
+> **Build it → Analyze it → Break it → Secure it**
 
 ---
 
-## 🎯 What I'm About
-```
-🔐 Cybersecurity & SOC Operations
-🛰️ Network Engineering & Defense  
-🤖 AI Modeling, Fine-Tuning & LLM Engineering
-⚡ Workflow Automation with Python
-🎨 Vibe Coding & Prompt Engineering
+## 🎯 What I Work With
 
-```
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI
+
+Machine Learning
+LLMs
+RAG
+AI Agents
+Prompt Engineering
+Model Evaluation
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Data
+
+Data Analysis
+Data Cleaning
+ETL
+Feature Engineering
+SQL
+Data Visualization
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Security
+
+AI Security
+LLM Red Teaming
+Application Security
+API Security
+Network Security
+Threat Modeling
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔭 Building **AI-powered cybersecurity tools**
-- 🧠 Learning **LLM fine-tuning & model training**
-- ⚡ Mastering **AI agent development & workflow automation**
-- 🎨 Exploring **prompt engineering & vibe coding**
-- 🛡️ Deepening expertise in **SOC operations & threat analysis**
-- 🌐 Advancing **network security & architecture**
+```text
+🤖 AI & Machine Learning
+📊 Data Engineering & Analytics
+🧠 LLM Applications & RAG
+🔐 LLM Security & Red Teaming
+🛡️ AI Agent Security
+🔌 MCP Security
+🌐 Application & API Security
+⚡ AI-powered Cybersecurity
+```
+
+I'm currently exploring how **AI, data and security can work together** to build more intelligent and trustworthy systems.
 
 ---
 
-## 💻 Tech Stack & Skills
+## 🔬 Featured Projects
 
-### 🔐 Cybersecurity & Networking
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge)
-![SOC](https://img.shields.io/badge/-SOC%20Operations-FFA500?style=for-the-badge)
-![Networking](https://img.shields.io/badge/-Network%20Engineering-00AABB?style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛡️ AgentShield — AI Agent & MCP Security
 
-### 🤖 AI & Machine Learning
-![AI](https://img.shields.io/badge/-AI%20Engineering-00FFAA?style=for-the-badge)
-![LLM](https://img.shields.io/badge/-LLM%20Fine--Tuning-9B59B6?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF6B9D?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF4500?style=for-the-badge)
-![RAG](https://img.shields.io/badge/-RAG%20Systems-00CED1?style=for-the-badge)
+A security enforcement layer for **AI-agent tool execution**.
 
-### ⚡ Development & Automation
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/-Workflow%20Automation-2ECC71?style=for-the-badge)
-![Vibe Coding](https://img.shields.io/badge/-Vibe%20Coding-FF69B4?style=for-the-badge)
+It introduces a security boundary between an AI agent and the tools it can access.
 
+```text
+AI Agent
+    │
+    ▼
+Tool Request
+    │
+    ▼
+┌──────────────────┐
+│   AgentShield    │
+├──────────────────┤
+│ Identity         │
+│ Authorization    │
+│ Risk Assessment  │
+│ Policy Engine    │
+│ Audit / Logging  │
+└────────┬─────────┘
+         │
+    ┌────┼────┐
+    ▼    ▼    ▼
+ ALLOW REVIEW BLOCK
+    │
+    ▼
+Tool Execution
+```
 
+Focus areas:
+
+`AI Agents` `MCP` `Tool Authorization` `Prompt Injection` `Threat Modeling`
 
 ---
 
->
+### 🔴 Enterprise LLM Security & Red Teaming Platform
 
+An LLM security evaluation platform for automated adversarial testing.
 
+**52+ attack vectors** covering:
+
+```text
+Prompt Injection
+Jailbreaks
+Data Extraction
+Context Manipulation
+Adversarial Inputs
+Instruction Conflicts
+Unsafe Outputs
+```
+
+Features include:
+
+* Automated LLM security testing
+* Attack categorization
+* Vulnerability scoring
+* Security analytics
+* AI security reporting
+* OWASP LLM Top 10 mapping
+* NIST AI RMF alignment
+
+---
+
+### 📊 Network Intrusion Detection System
+
+Machine-learning-based network intrusion detection using **UNSW-NB15**.
+
+```text
+Raw Network Data
+       │
+       ▼
+Data Cleaning
+       │
+       ▼
+Feature Engineering
+       │
+       ▼
+ML Models
+ ┌─────┴─────┐
+ ▼           ▼
+Random     XGBoost
+Forest
+ │           │
+ └─────┬─────┘
+       ▼
+Threat Detection
+       │
+       ▼
+SHAP Explainability
+       │
+       ▼
+RAG Threat Explanation
+```
+
+Focus areas:
+
+`Data Analysis` `Machine Learning` `Network Security` `XGBoost` `SHAP` `RAG`
+
+---
+
+### 🤖 LLM-Powered AI Assistant
+
+An LLM application combining conversational AI with retrieval-augmented generation.
+
+**Stack:**
+
+`Python` `Flask` `Groq LLaMA 3.3` `RAG`
+
+Features:
+
+* Conversation memory
+* Retrieval-Augmented Generation
+* LLM APIs
+* Interactive AI features
+
+---
+
+## 📊 Data & AI Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC5A29?style=for-the-badge)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00A8A8?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-8E44AD?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B9D?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 Data Engineering & Analytics
+
+```text
+Data Collection
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Data Preprocessing
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+Visualization & Insights
+```
+
+Skills:
+
+`Python` `Pandas` `NumPy` `SQL` `ETL` `Data Cleaning`
+`Data Analysis` `Feature Engineering` `Data Visualization`
+
+---
+
+## 🔐 Cybersecurity & AI Security
+
+### AI Security
+
+`LLM Security` `Prompt Injection` `AI Agents` `MCP Security`
+`LLM Red Teaming` `Guardrails` `RAG Security` `AI Threat Modeling`
+
+### Application Security
+
+`API Security` `Authentication` `Authorization` `JWT`
+`Tenant Isolation` `Webhook Security` `Input Validation`
+
+### Network Security
+
+`TCP/IP` `DNS` `ARP` `NAT/PAT` `IPv6` `OSPF` `STP`
+`Wireshark` `Nmap`
+
+---
+
+## 💻 Development & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**SUP'COM — Higher School of Communications of Tunis**
+
+`ICT Engineering · 2024–2027`
+
+Focus areas:
+
+`Artificial Intelligence · Data · Machine Learning · Cybersecurity · Networking`
+
+Previously studied **Physics-Chemistry** at IPEIM and ranked **42/1227** in the national engineering entrance examination.
+
+---
+
+## 🏆 Certifications
+
+* CCNA 1 — Introduction to Networks
+* CCNA 2 — Switching, Routing and Wireless Essentials
+* Cisco Introduction to Cybersecurity
+* Cisco Networking Basics
+* GitHub Fundamentals
+
+---
+
+## 👩‍💻 Leadership
+
+**Vice Chairwoman — SUP'COM Cybersecurity Club (SC²)**
+2025–2026
+
+Cybersecurity workshops, technical talks, awareness activities and community initiatives.
+
+**Partnerships Manager — Club Ambassadeur SOS SUP'COM**
+2025–2026
+
+Partnerships, external relations and student initiatives.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sourourjaouadi&show_icons=true&hide_border=true&theme=radical" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourourjaouadi&hide_border=true&theme=radical" />
+
+</div>
 
 ---
 
@@ -80,9 +373,17 @@ From analyzing threats in SOC environments to fine-tuning LLMs and automating wo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<a href="https://www.linkedin.com/in/sourourjaouadi">
+<img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sourour.jaouadi@supcom.tn">
+<img src="https://img.shields.io/badge/Email-8E44AD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sourourjaouadi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -90,12 +391,10 @@ From analyzing threats in SOC environments to fine-tuning LLMs and automating wo
 
 <div align="center">
 
-### 💬 My Philosophy
+### 🤖 + 📊 + 🔐
 
-*"Security without intelligence is blind. Intelligence without security is vulnerable."*
+> **Building intelligent systems. Understanding data. Securing AI.**
 
 **Always learning. Always building. Always exploring. 🚀**
-
-
 
 </div>
